@@ -14,7 +14,7 @@ training process.
 
 **Requirements**
 
-[Dataset](https://drive.google.com/drive/folders/1IesESYVA7xNJcvWnKk3l2DrTvx54EcYQ?usp=sharing)
+Dataset [Google drive](https://drive.google.com/drive/folders/1IesESYVA7xNJcvWnKk3l2DrTvx54EcYQ?usp=sharing)
 
 The efficacy of the proposed compression algorithm is evaluated over publicly available remote sensing multispectral
 images daily acquired by the MODIS satellite over the region of Chania in Crete. In more detail, the files 
