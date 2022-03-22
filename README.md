@@ -12,7 +12,7 @@ are quantized and encoded in order to be transmitted, using a symbol encoding di
 training process.
 
 
-Requirements
+**Requirements**
 Dataset
 
 The efficacy of the proposed compression algorithm is evaluated over publicly available remote sensing multispectral
@@ -32,7 +32,7 @@ We use Lloyd-max quantization, which is implemented in https://github.com/papani
 (files: lloyd_max.m and my_quantizer.m)
 
 
-Contents
+**Contents**
 
 main.m : The primary script that loads the data, performs the compression using the proposed tensor decomposition
 learning method in combination with quantization and encoding of the tensor data, and provides the results.
@@ -52,7 +52,7 @@ Unfold.m : Unfold the tensor into a matricization mode.
 Fold.m : Fold a matricization mode into a tensor.
 
 
-References
+**References**
 
 1. A.  Aidini,  G.  Tsagkatakis,  and P.  Tsakalides, “Tensor Decomposition Learning for Compression of
 Multidimensional Signals,” IEEE Journal of Selected Topics in Signal Processing 15.3 (2021): 476-490
