@@ -14,7 +14,7 @@ training process.
 
 **Requirements**
 
-Dataset
+[Dataset](https://drive.google.com/drive/folders/1IesESYVA7xNJcvWnKk3l2DrTvx54EcYQ?usp=sharing)
 
 The efficacy of the proposed compression algorithm is evaluated over publicly available remote sensing multispectral
 images daily acquired by the MODIS satellite over the region of Chania in Crete. In more detail, the files 
@@ -55,8 +55,8 @@ Fold.m : Fold a matricization mode into a tensor.
 
 **References**
 
-1. A.  Aidini,  G.  Tsagkatakis,  and P.  Tsakalides, “Tensor Decomposition Learning for Compression of
-Multidimensional Signals,” IEEE Journal of Selected Topics in Signal Processing 15.3 (2021): 476-490
+1. A.  Aidini,  G.  Tsagkatakis,  and P.  Tsakalides, [“Tensor Decomposition Learning for Compression of
+Multidimensional Signals,”](http://users.ics.forth.gr/~tsakalid/PAPERS/2021-JSTSP.pdf) IEEE Journal of Selected Topics in Signal Processing 15.3 (2021): 476-490
 
 2. Brett W. Bader, Tamara G. Kolda and others. MATLAB Tensor Toolbox Version 3.1, Available online, June 2019.
 URL: https://gitlab.com/tensors/tensor_toolbox.
