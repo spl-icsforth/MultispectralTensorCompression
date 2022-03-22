@@ -13,6 +13,7 @@ training process.
 
 
 **Requirements**
+
 Dataset
 
 The efficacy of the proposed compression algorithm is evaluated over publicly available remote sensing multispectral
